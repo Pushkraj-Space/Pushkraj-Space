@@ -57,5 +57,5 @@ I am a passionate Full Stack Developer with experience in creating robust and ef
 
 ## Let's Connect
 
-- **GitHub:** [pushkrajmusmade](https://github.com/pushkrajmusmade)
-- **Website:** [pushkrajmusmade.github.io](https://pushkrajmusmade.github.io)
+- **GitHub:** [Pushkraj-Space](https://github.com/Pushkraj-Space)
+- **Website:** [pushkrajmusmade.github.io](https://Pushkraj-Space.github.io)
